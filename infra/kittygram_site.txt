@@ -1,5 +1,5 @@
 IP: 51.250.104.161;
-name_taski: https://taski.zapto.org;
+name_taski: https://mytaskiya.zapto.org;
 name_kittygram: https://kittygramtest.zapto.org;
 login: andrey;
 password: qwerty;
