@@ -1,6 +1,6 @@
 server {
     listen 80;
-    server_name kittygramtest.zapto.org 51.250.104.161;
+    server_name kittygramtest.zapto.org;
 
     location /api/ {
         proxy_pass http://127.0.0.1:8080;
